@@ -1,0 +1,18 @@
+plugins {
+    id 'java'
+}
+
+group 'com.ejercicio'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'com.intuit.karate:karate-junit5:1.4.1' // o la versión más reciente
+}
+
+test {
+    useJUnitPlatform()
+}
