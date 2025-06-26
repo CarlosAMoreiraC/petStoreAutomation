@@ -1,0 +1,9 @@
+Conclusiones
+
+Karate DSL es una herramienta para automatización de pruebas de APIs, especialmente útil para equipos QA sin gran experiencia en programación, gracias a su sintaxis tipo Gherkin.
+
+Permite realizar validaciones complejas de JSON/XML, testing en paralelo y configuración de entornos de forma sencilla.
+
+Es ideal para pruebas de integración y validación de contratos API en proyectos ágiles.
+
+Aunque no está pensado para pruebas de UI ricas, puede complementar pruebas de backend con rapidez y eficacia.
